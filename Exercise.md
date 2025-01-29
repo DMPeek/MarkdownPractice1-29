@@ -7,4 +7,4 @@ Iron Man is the Superhero Persona of the weapons manufacturer, Tony Stark. He is
 - He's cocky but in a funny way
 + His movies are enjoyable
 
-![Iron man](image.png)
+![Iron man](IronMan.png)
